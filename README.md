@@ -1,3 +1,5 @@
+### To learn more, please visit our blogpost at https://blog.nycdatascience.com/student-works/data-scientists-guide-predicting-housing-prices-russia/
+
 ### Team github repo for Kaggle competition occuring in May 2017. 
 * Kaggle Competition: Sberbank Russian Housing Market
 * Can you predict realty price fluctuations in Russia’s volatile economy?
